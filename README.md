@@ -1,0 +1,2 @@
+# bayesian_technology_credit_card_data_scrap-main
+Internship Assessment  of bayesian_technology
